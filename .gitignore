@@ -1,0 +1,8 @@
+.idea/
+hystrixdemo/.gradle/
+hystrixdemo/gradle/
+hystrixdemo/gradlew.bat
+hystrixdemo/hystrixdemo.iml
+hystrixdemo/hystrixdemo.ipr
+hystrixdemo/hystrixdemo.iws
+server/node_modules/
